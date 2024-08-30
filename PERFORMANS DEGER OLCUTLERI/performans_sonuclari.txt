@@ -1,0 +1,14 @@
+Tüm Foldlar Ýçin Performanslar:
+
+SVM:
+Mean Accuracy: 0.7380781511017624
+Mean F1 Score: 0.729249552226825
+
+Random Forest:
+Mean Accuracy: 0.7993938061976245
+Mean F1 Score: 0.7986354418206052
+
+Logistic Regression:
+Mean Accuracy: 0.844497626536173
+Mean F1 Score: 0.8427158751601574
+
